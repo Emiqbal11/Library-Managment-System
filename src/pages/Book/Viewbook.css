@@ -1,0 +1,44 @@
+/* th {
+ 
+  background-color: #2C2E3E;
+  height: 100%;
+  color: white;
+  width: 100px;
+  font-size: 18px;
+  font-family: "bold";
+  padding: 5px;
+} */
+Table{
+  margin-top: 10px;
+}
+thead{
+  text-align: center;
+  background-color: #11283F;
+  color: aliceblue;
+}
+td{
+vertical-align: middle!important;
+text-align:center;
+}
+  
+
+.titleStyle{
+font-family: bold;
+text-align:justify;
+font-size: 26px;
+display: block;
+font-weight: bolder;
+color: white;
+background-color:#1a83ff;
+padding-bottom: 5px;
+height:40px;
+width: 300px;
+
+
+}
+.search{
+  width:600px;
+  position:initial;
+  border:0px solid blue;
+  
+}
